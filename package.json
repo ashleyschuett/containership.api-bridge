@@ -12,7 +12,8 @@
   "dependencies": {
     "@containership/containership.abstraction.api": "git://github.com/containership/containership.abstraction.api",
     "lodash": "^4.17.4",
-    "request": "^2.79.0"
+    "request": "^2.79.0",
+    "semver": "^5.3.0"
   },
   "devDependencies": {
     "eslint": "^3.19.0"
